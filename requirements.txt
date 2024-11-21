@@ -1,0 +1,23 @@
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+catboost
+pymongo
+from-root
+evidently
+dill
+pyyaml
+neuro-mf
+boto3
+mypy-boto3-s3
+botocore
+streamlit
+python-multipart
+-e .
